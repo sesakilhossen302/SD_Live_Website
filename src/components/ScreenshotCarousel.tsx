@@ -19,9 +19,9 @@ const screenshots = [
   },
   {
     id: 3,
-    src: "/assets/gif.gif",
-    title: "Live HD Video Broadcast",
-    category: "Live Stream GIF",
+    src: "/screenshots/2.png",
+    title: "Live Rooms & Multi-Mic Seats",
+    category: "Interactive Rooms",
   },
 ];
 

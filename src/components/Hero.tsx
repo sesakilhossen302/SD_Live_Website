@@ -61,7 +61,7 @@ export default function Hero() {
                 href="/#features"
                 className="w-full sm:w-auto px-8 py-4 rounded-full font-semibold text-base text-gray-200 glass-panel hover:bg-white/[0.08] hover:text-white border border-white/15 flex items-center justify-center gap-3 transition-all duration-300"
               >
-                <Play className="w-5 h-5 text-[#D4AF37] fill-[#D4AF37]" />
+                <Sparkles className="w-5 h-5 text-[#D4AF37]" />
                 <span>Learn More</span>
               </Link>
             </div>

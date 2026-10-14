@@ -10,8 +10,8 @@ const mockScreenshots = [
     name: "Home Feed & Live Rooms",
   },
   {
-    src: "/screenshots/gif.gif",
-    name: "Live Broadcast Stream",
+    src: "/assets/Feed Screen.png",
+    name: "Interactive Community Feed",
   }
 ];
 
