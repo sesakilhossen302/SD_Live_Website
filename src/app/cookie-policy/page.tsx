@@ -1,8 +1,8 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Cookie Policy - VeloraLive",
-  description: "Learn about how VeloraLive uses minimal essential cookies to maintain user sessions.",
+  title: "Cookie Policy - PigoLive",
+  description: "Learn about how PigoLive uses minimal essential cookies to maintain user sessions.",
 };
 
 export default function CookiePolicyPage() {
@@ -11,7 +11,7 @@ export default function CookiePolicyPage() {
       <div className="p-8 sm:p-14 rounded-3xl glass-panel border border-white/10 space-y-8">
         
         <div className="space-y-3 border-b border-white/10 pb-6">
-          <span className="px-3 py-1 rounded-full bg-[#D2056E]/20 text-[#D2056E] text-xs font-bold uppercase tracking-wider">
+          <span className="px-3 py-1 rounded-full bg-[#D4AF37]/20 text-[#D4AF37] text-xs font-bold uppercase tracking-wider">
             Legal Document
           </span>
           <h1 className="text-3xl sm:text-5xl font-black text-white">Cookie Policy</h1>
@@ -29,7 +29,7 @@ export default function CookiePolicyPage() {
           <section className="space-y-3">
             <h2 className="text-xl font-bold text-white">2. Essential Cookies Only</h2>
             <p>
-              VeloraLive only uses essential security and performance cookies necessary to keep you signed in and store playback preference settings.
+              PigoLive only uses essential security and performance cookies necessary to keep you signed in and store playback preference settings.
             </p>
           </section>
 

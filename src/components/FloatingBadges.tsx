@@ -8,9 +8,9 @@ export function LiveBadge() {
     <motion.div
       animate={{ y: [0, -10, 0] }}
       transition={{ duration: 4, repeat: Infinity, ease: "easeInOut" }}
-      className="absolute top-8 -left-8 sm:-left-12 z-20 glass-panel-glow px-4 py-2.5 rounded-2xl flex items-center gap-2.5 border border-[#D2056E]/40 shadow-xl shadow-[#D2056E]/20"
+      className="absolute top-8 -left-8 sm:-left-12 z-20 glass-panel-glow px-4 py-2.5 rounded-2xl flex items-center gap-2.5 border border-[#D4AF37]/40 shadow-xl shadow-[#D4AF37]/20"
     >
-      <div className="w-8 h-8 rounded-xl bg-gradient-to-tr from-[#D2056E] to-[#990C57] flex items-center justify-center text-white shadow-md">
+      <div className="w-8 h-8 rounded-xl bg-gradient-to-tr from-[#D4AF37] to-[#B5952F] flex items-center justify-center text-white shadow-md">
         <Heart className="w-4 h-4 fill-white animate-pulse" />
       </div>
       <div>
@@ -67,7 +67,7 @@ export function PremiumBadge() {
       transition={{ duration: 4.8, repeat: Infinity, ease: "easeInOut", delay: 1.5 }}
       className="absolute bottom-20 -right-6 sm:-right-8 z-20 glass-panel-glow px-4 py-2.5 rounded-2xl flex items-center gap-2.5 border border-purple-500/40 shadow-xl shadow-purple-500/20"
     >
-      <div className="w-8 h-8 rounded-xl bg-gradient-to-tr from-purple-600 to-[#D2056E] flex items-center justify-center text-white shadow-md">
+      <div className="w-8 h-8 rounded-xl bg-gradient-to-tr from-purple-600 to-[#D4AF37] flex items-center justify-center text-white shadow-md">
         <Crown className="w-4 h-4 text-amber-300" />
       </div>
       <div>

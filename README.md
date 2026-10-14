@@ -1,6 +1,6 @@
-# VeloraLive Website
+# PigoLive Website
 
-Official website for **VeloraLive** — Next-Gen Live Streaming & Creator Economy mobile application (`com.veloralive.app`).
+Official website for **PigoLive** — Next-Gen Live Streaming & Creator Economy mobile application (`com.pigobdlive.app`).
 
 ## Features
 - Built with **Next.js 14 (App Router)**, **React 18**, and **Tailwind CSS**.

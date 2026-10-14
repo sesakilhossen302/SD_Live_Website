@@ -9,7 +9,7 @@ export default function ContactSection() {
         
         {/* Section Header */}
         <div className="text-center space-y-4 max-w-2xl mx-auto mb-16">
-          <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full glass-panel-glow text-xs font-bold text-[#D2056E] border border-[#D2056E]/30 uppercase tracking-widest">
+          <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full glass-panel-glow text-xs font-bold text-[#D4AF37] border border-[#D4AF37]/30 uppercase tracking-widest">
             <Sparkles className="w-3.5 h-3.5" />
             <span>24/7 Creator Support</span>
           </div>
@@ -31,21 +31,21 @@ export default function ContactSection() {
 
             <div className="space-y-4 pt-4">
               <div className="flex items-center gap-4 p-4.5 rounded-2xl bg-white/[0.03] border border-white/10">
-                <div className="w-12 h-12 rounded-xl bg-[#D2056E]/20 border border-[#D2056E]/40 flex items-center justify-center text-[#D2056E] shrink-0">
+                <div className="w-12 h-12 rounded-xl bg-[#D4AF37]/20 border border-[#D4AF37]/40 flex items-center justify-center text-[#D4AF37] shrink-0">
                   <Mail className="w-6 h-6" />
                 </div>
                 <div>
                   <p className="text-xs text-gray-400 font-medium">Official Support Email</p>
                   <p className="text-base font-bold text-white">
-                    <a href="mailto:zonykhan2026@gmail.com" className="hover:text-pink-400 transition-colors">
-                      zonykhan2026@gmail.com
+                    <a href="mailto:pigobdlive@gmail.com" className="hover:text-pink-400 transition-colors">
+                      pigobdlive@gmail.com
                     </a>
                   </p>
                 </div>
               </div>
 
               <div className="flex items-center gap-4 p-4.5 rounded-2xl bg-white/[0.03] border border-white/10">
-                <div className="w-12 h-12 rounded-xl bg-[#990C57]/20 border border-[#990C57]/40 flex items-center justify-center text-pink-300 shrink-0">
+                <div className="w-12 h-12 rounded-xl bg-[#B5952F]/20 border border-[#B5952F]/40 flex items-center justify-center text-pink-300 shrink-0">
                   <Clock className="w-6 h-6" />
                 </div>
                 <div>
@@ -55,7 +55,7 @@ export default function ContactSection() {
               </div>
 
               <div className="flex items-center gap-4 p-4.5 rounded-2xl bg-white/[0.03] border border-white/10">
-                <div className="w-12 h-12 rounded-xl bg-[#711345]/20 border border-[#711345]/40 flex items-center justify-center text-purple-300 shrink-0">
+                <div className="w-12 h-12 rounded-xl bg-[#8A7322]/20 border border-[#8A7322]/40 flex items-center justify-center text-purple-300 shrink-0">
                   <MapPin className="w-6 h-6" />
                 </div>
                 <div>

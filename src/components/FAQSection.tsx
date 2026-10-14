@@ -6,27 +6,27 @@ import { ChevronDown, HelpCircle, Sparkles } from "lucide-react";
 
 const faqData = [
   {
-    question: "How do I download and install VeloraLive?",
+    question: "How do I download and install PigoLive?",
     answer:
-      "You can download VeloraLive directly from the Google Play Store, Apple App Store, or download our official standalone APK directly from the Download page on this website. Installation takes less than 30 seconds.",
+      "You can download PigoLive directly from the Google Play Store, Apple App Store, or download our official standalone APK directly from the Download page on this website. Installation takes less than 30 seconds.",
   },
   {
-    question: "Is VeloraLive free to use for broadcasers and viewers?",
+    question: "Is PigoLive free to use for broadcasers and viewers?",
     answer:
-      "Yes! VeloraLive is 100% free to download, view streams, and broadcast. Viewers have the optional ability to purchase virtual gifts, diamonds, and VIP memberships to support their favorite creators.",
+      "Yes! PigoLive is 100% free to download, view streams, and broadcast. Viewers have the optional ability to purchase virtual gifts, diamonds, and VIP memberships to support their favorite creators.",
   },
   {
-    question: "How do creators earn money on VeloraLive?",
+    question: "How do creators earn money on PigoLive?",
     answer:
       "Creators earn money through virtual gifts sent by viewers during live streams, private room ticket sales, VIP subscriptions, and monthly creator performance bonuses. Earned diamonds can be cashed out instantly.",
   },
   {
     question: "What are the minimum system requirements for HD streaming?",
     answer:
-      "For Android, VeloraLive requires Android 8.0 or higher with at least 2GB of RAM. For iOS, it requires iOS 14.0 or higher. Our adaptive bitrate technology automatically adjusts quality based on your connection.",
+      "For Android, PigoLive requires Android 8.0 or higher with at least 2GB of RAM. For iOS, it requires iOS 14.0 or higher. Our adaptive bitrate technology automatically adjusts quality based on your connection.",
   },
   {
-    question: "How does VeloraLive keep streams safe and moderated?",
+    question: "How does PigoLive keep streams safe and moderated?",
     answer:
       "We utilize proprietary real-time AI moderation models alongside a dedicated 24/7 trust and safety team. Inappropriate content, spam, and policy violations are detected and removed within seconds.",
   },
@@ -50,7 +50,7 @@ export default function FAQSection() {
         
         {/* Section Header */}
         <div className="text-center space-y-4 max-w-2xl mx-auto mb-16">
-          <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full glass-panel-glow text-xs font-bold text-[#D2056E] border border-[#D2056E]/30 uppercase tracking-widest">
+          <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full glass-panel-glow text-xs font-bold text-[#D4AF37] border border-[#D4AF37]/30 uppercase tracking-widest">
             <Sparkles className="w-3.5 h-3.5" />
             <span>Got Questions?</span>
           </div>
@@ -71,7 +71,7 @@ export default function FAQSection() {
                 key={idx}
                 className={`rounded-2xl glass-panel transition-all duration-300 overflow-hidden border ${
                   isOpen
-                    ? "border-[#D2056E]/60 bg-[#2A1721]/60 shadow-lg shadow-[#D2056E]/10"
+                    ? "border-[#D4AF37]/60 bg-[#2C2513]/60 shadow-lg shadow-[#D4AF37]/10"
                     : "border-white/10 hover:border-white/20"
                 }`}
               >
@@ -80,12 +80,12 @@ export default function FAQSection() {
                   className="w-full p-6 text-left flex items-center justify-between gap-4 font-semibold text-base sm:text-lg text-white focus:outline-none"
                 >
                   <span className="flex items-center gap-3">
-                    <HelpCircle className={`w-5 h-5 transition-colors ${isOpen ? "text-[#D2056E]" : "text-gray-400"}`} />
+                    <HelpCircle className={`w-5 h-5 transition-colors ${isOpen ? "text-[#D4AF37]" : "text-gray-400"}`} />
                     <span>{item.question}</span>
                   </span>
                   <div
                     className={`w-8 h-8 rounded-full flex items-center justify-center bg-white/[0.06] border border-white/10 transition-transform duration-300 ${
-                      isOpen ? "rotate-180 bg-[#D2056E] text-white" : "text-gray-400"
+                      isOpen ? "rotate-180 bg-[#D4AF37] text-white" : "text-gray-400"
                     }`}
                   >
                     <ChevronDown className="w-4 h-4" />

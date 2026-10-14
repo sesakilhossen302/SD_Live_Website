@@ -39,7 +39,7 @@ export default function Navbar() {
     <header
       className={`fixed top-0 left-0 right-0 z-50 transition-all duration-300 ${
         scrolled
-          ? "bg-[#2A1721]/80 backdrop-blur-xl border-b border-[#D2056E]/20 shadow-lg shadow-[#170B13]/80 py-3"
+          ? "bg-[#2C2513]/80 backdrop-blur-xl border-b border-[#D4AF37]/20 shadow-lg shadow-[#0f1126]/80 py-3"
           : "bg-transparent py-5"
       }`}
     >
@@ -47,21 +47,23 @@ export default function Navbar() {
         <div className="flex items-center justify-between">
           {/* Logo */}
           <Link href="/" className="flex items-center gap-3 group">
-            <div className="relative w-10 h-10 rounded-xl bg-gradient-to-tr from-[#D2056E] via-[#990C57] to-[#711345] p-[1.5px] shadow-lg shadow-[#D2056E]/30 group-hover:shadow-[#D2056E]/60 transition-all duration-300">
-              <div className="w-full h-full bg-[#170B13] rounded-[10px] flex items-center justify-center overflow-hidden">
+            <div className="relative w-11 h-11 rounded-xl bg-gradient-to-tr from-[#FF5E3A] via-[#FF2A6D] to-[#9B51E0] p-[2px] shadow-lg shadow-purple-500/25 group-hover:shadow-pink-500/50 transition-all duration-300">
+              <div className="w-full h-full bg-[#0a0c1a] rounded-[9px] flex items-center justify-center overflow-hidden p-1">
                 <Image
-                  src="/logo.png"
-                  alt="VeloraLive Logo"
-                  width={28}
-                  height={28}
-                  className="object-contain transform group-hover:scale-110 transition-transform duration-300"
+                  src="/pigo-live.png"
+                  alt="Pigo Live Logo"
+                  width={36}
+                  height={36}
+                  priority
+                  unoptimized
+                  className="w-full h-full object-contain transform group-hover:scale-110 transition-transform duration-300"
                 />
               </div>
             </div>
             <div className="flex flex-col">
               <span className="font-extrabold text-xl tracking-tight text-white flex items-center gap-1.5">
-                Velora<span className="text-[#D2056E]">Live</span>
-                <span className="inline-block w-2 h-2 rounded-full bg-[#D2056E] animate-pulse" />
+                Pigo<span className="text-[#D4AF37]">Live</span>
+                <span className="inline-block w-2 h-2 rounded-full bg-[#D4AF37] animate-pulse" />
               </span>
               <span className="text-[10px] text-gray-400 tracking-widest uppercase font-medium">
                 Next-Gen Live
@@ -87,7 +89,7 @@ export default function Navbar() {
                   {isActive && (
                     <motion.div
                       layoutId="activeNavTab"
-                      className="absolute inset-0 bg-gradient-to-r from-[#D2056E]/30 to-[#990C57]/30 border border-[#D2056E]/40 rounded-full -z-10"
+                      className="absolute inset-0 bg-gradient-to-r from-[#D4AF37]/30 to-[#B5952F]/30 border border-[#D4AF37]/40 rounded-full -z-10"
                       transition={{ type: "spring", stiffness: 380, damping: 30 }}
                     />
                   )}
@@ -112,7 +114,7 @@ export default function Navbar() {
           <div className="flex lg:hidden items-center gap-2">
             <Link
               href="/download"
-              className="px-3 py-1.5 rounded-full text-xs font-semibold text-white bg-gradient-to-r from-[#D2056E] to-[#990C57] flex items-center gap-1.5"
+              className="px-3 py-1.5 rounded-full text-xs font-semibold text-white bg-gradient-to-r from-[#D4AF37] to-[#B5952F] flex items-center gap-1.5"
             >
               <Download className="w-3.5 h-3.5" />
               <span>App</span>
@@ -136,7 +138,7 @@ export default function Navbar() {
             animate={{ opacity: 1, height: "auto" }}
             exit={{ opacity: 0, height: 0 }}
             transition={{ duration: 0.3 }}
-            className="lg:hidden bg-[#2A1721]/95 backdrop-blur-2xl border-b border-[#D2056E]/20 overflow-hidden"
+            className="lg:hidden bg-[#2C2513]/95 backdrop-blur-2xl border-b border-[#D4AF37]/20 overflow-hidden"
           >
             <div className="px-5 py-6 space-y-3">
               {navLinks.map((link) => (
@@ -144,7 +146,7 @@ export default function Navbar() {
                   key={link.name}
                   href={link.href}
                   onClick={() => setMobileMenuOpen(false)}
-                  className="block px-4 py-2.5 rounded-xl text-base font-medium text-gray-200 hover:text-white hover:bg-[#D2056E]/20 border border-transparent hover:border-[#D2056E]/30 transition-all"
+                  className="block px-4 py-2.5 rounded-xl text-base font-medium text-gray-200 hover:text-white hover:bg-[#D4AF37]/20 border border-transparent hover:border-[#D4AF37]/30 transition-all"
                 >
                   {link.name}
                 </Link>
@@ -157,7 +159,7 @@ export default function Navbar() {
                   className="w-full py-3 rounded-xl font-bold text-center text-white btn-gradient flex items-center justify-center gap-2"
                 >
                   <Download className="w-5 h-5" />
-                  <span>Download VeloraLive</span>
+                  <span>Download PigoLive</span>
                 </Link>
               </div>
             </div>

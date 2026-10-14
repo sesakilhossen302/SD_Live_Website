@@ -3,11 +3,11 @@
 @tailwind utilities;
 
 :root {
-  --color-pink: #D2056E;
-  --color-[#D2056E]: #990C57;
-  --color-purple: #711345;
-  --color-crimson: #551128;
-  --color-dark: #2A1721;
+  --color-gold: #D4AF37;
+  --color-gold-rich: #B5952F;
+  --color-gold-deep: #8A7322;
+  --color-gold-dark: #5E4D17;
+  --color-gold-darkest: #2C2513;
 }
 
 html {
@@ -21,7 +21,7 @@ html {
 }
 
 body {
-  background-color: #170B13;
+  background-color: #0f1126;
   color: #FFFFFF;
   font-family: var(--font-poppins), sans-serif;
   overflow-x: hidden;
@@ -51,11 +51,11 @@ body {
 }
 
 .glass-panel-glow {
-  background: linear-gradient(135deg, rgba(210, 5, 110, 0.08) 0%, rgba(42, 23, 33, 0.4) 100%);
+  background: linear-gradient(135deg, rgba(212, 175, 55, 0.08) 0%, rgba(42, 23, 33, 0.4) 100%);
   backdrop-filter: blur(16px);
   -webkit-backdrop-filter: blur(16px);
-  border: 1px solid rgba(210, 5, 110, 0.25);
-  box-shadow: 0 10px 40px rgba(210, 5, 110, 0.15);
+  border: 1px solid rgba(212, 175, 55, 0.25);
+  box-shadow: 0 10px 40px rgba(212, 175, 55, 0.15);
   transition: transform 0.4s cubic-bezier(0.16, 1, 0.3, 1), border-color 0.4s ease;
   will-change: transform;
 }
@@ -64,13 +64,13 @@ body {
   background: rgba(42, 23, 33, 0.85);
   backdrop-filter: blur(16px);
   -webkit-backdrop-filter: blur(16px);
-  border-bottom: 1px solid rgba(210, 5, 110, 0.15);
+  border-bottom: 1px solid rgba(212, 175, 55, 0.15);
   transition: background-color 0.3s ease, padding 0.3s ease;
   will-change: background-color;
 }
 
 .text-gradient {
-  background: linear-gradient(135deg, #FFFFFF 0%, #FFB5DB 40%, #D2056E 100%);
+  background: linear-gradient(135deg, #FFFFFF 0%, #FDE68A 40%, #D4AF37 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -82,8 +82,8 @@ body {
 }
 
 .btn-gradient {
-  background: linear-gradient(135deg, #D2056E 0%, #990C57 50%, #711345 100%);
-  box-shadow: 0 8px 25px rgba(210, 5, 110, 0.35);
+  background: linear-gradient(135deg, #D4AF37 0%, #B5952F 50%, #8A7322 100%);
+  box-shadow: 0 8px 25px rgba(212, 175, 55, 0.35);
   transition: transform 0.3s cubic-bezier(0.16, 1, 0.3, 1), box-shadow 0.3s ease, filter 0.3s ease;
   will-change: transform;
   transform: translateZ(0);
@@ -91,7 +91,7 @@ body {
 
 .btn-gradient:hover {
   transform: translateY(-3px) scale(1.02);
-  box-shadow: 0 14px 35px rgba(210, 5, 110, 0.6);
+  box-shadow: 0 14px 35px rgba(212, 175, 55, 0.6);
   filter: brightness(1.08);
 }
 
@@ -105,16 +105,16 @@ body {
 }
 
 ::-webkit-scrollbar-track {
-  background: #170B13;
+  background: #0f1126;
 }
 
 ::-webkit-scrollbar-thumb {
-  background: #711345;
+  background: #8A7322;
   border-radius: 4px;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: #D2056E;
+  background: #D4AF37;
 }
 
 /* Highly Optimized GPU Ambient Floating Keyframes */

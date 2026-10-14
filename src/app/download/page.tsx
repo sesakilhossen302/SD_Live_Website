@@ -3,19 +3,19 @@ import DownloadSection from "@/components/DownloadSection";
 import FAQSection from "@/components/FAQSection";
 
 export const metadata: Metadata = {
-  title: "Download App - VeloraLive",
-  description: "Download VeloraLive for iOS and Android. Get direct APK downloads or install from official app stores.",
+  title: "Download App - PigoLive",
+  description: "Download PigoLive for iOS and Android. Get direct APK downloads or install from official app stores.",
 };
 
 export default function DownloadPage() {
   return (
     <div className="pt-24 sm:pt-32">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12 text-center">
-        <span className="px-4 py-1.5 rounded-full glass-panel-glow text-xs font-bold text-[#D2056E] border border-[#D2056E]/40 uppercase tracking-widest">
+        <span className="px-4 py-1.5 rounded-full glass-panel-glow text-xs font-bold text-[#D4AF37] border border-[#D4AF37]/40 uppercase tracking-widest">
           Mobile Downloads
         </span>
         <h1 className="text-4xl sm:text-6xl font-black text-white mt-4 mb-6">
-          Get <span className="text-gradient">VeloraLive Mobile</span>
+          Get <span className="text-gradient">PigoLive Mobile</span>
         </h1>
         <p className="text-gray-300 text-base sm:text-xl max-w-3xl mx-auto">
           Compatible with all modern smartphones. Start streaming in less than 30 seconds with zero setup fees.
@@ -33,7 +33,7 @@ export default function DownloadPage() {
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
             <div className="p-6 rounded-2xl bg-white/[0.03] border border-white/10 space-y-4">
-              <h3 className="text-xl font-bold text-[#D2056E]">🤖 Android Requirements</h3>
+              <h3 className="text-xl font-bold text-[#D4AF37]">🤖 Android Requirements</h3>
               <ul className="space-y-2 text-sm text-gray-300">
                 <li>• OS: Android 8.0 (Oreo) or higher</li>
                 <li>• RAM: 2GB Minimum (4GB Recommended for 1080p)</li>

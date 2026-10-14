@@ -6,17 +6,13 @@ import { LiveBadge, GiftsBadge, ChatBadge, PremiumBadge, EarningsBadge } from ".
 
 const mockScreenshots = [
   {
-    src: "/assets/home.png",
+    src: "/screenshots/1.png",
     name: "Home Feed & Live Rooms",
   },
   {
-    src: "/assets/Feed Screen.png",
-    name: "Interactive Community Feed",
-  },
-  {
-    src: "/assets/gif.gif",
+    src: "/screenshots/gif.gif",
     name: "Live Broadcast Stream",
-  },
+  }
 ];
 
 export default function PhoneMockup() {
@@ -32,10 +28,10 @@ export default function PhoneMockup() {
   return (
     <div className="relative mx-auto w-full max-w-[320px] sm:max-w-[360px] lg:max-w-[400px] aspect-[9/19] my-4 gpu-smooth">
       {/* Soft Ambient Background Glow */}
-      <div className="absolute inset-0 rounded-[55px] bg-gradient-to-b from-[#D2056E] via-[#990C57] to-[#711345] blur-[50px] opacity-45 scale-105 animate-pulse-glow pointer-events-none" />
+      <div className="absolute inset-0 rounded-[55px] bg-gradient-to-b from-[#D4AF37] via-[#B5952F] to-[#8A7322] blur-[50px] opacity-45 scale-105 animate-pulse-glow pointer-events-none" />
 
       {/* Outer Smartphone Frame */}
-      <div className="relative w-full h-full rounded-[46px] bg-gradient-to-b from-[#3D1E2E] via-[#2A1721] to-[#170B13] p-[8px] sm:p-[10px] shadow-2xl shadow-black/90 border border-white/20">
+      <div className="relative w-full h-full rounded-[46px] bg-gradient-to-b from-[#3D1E2E] via-[#2C2513] to-[#0f1126] p-[8px] sm:p-[10px] shadow-2xl shadow-black/90 border border-white/20">
         
         {/* Inner Bevel Screen Container */}
         <div className="relative w-full h-full rounded-[38px] bg-[#1a0c16] overflow-hidden border border-white/10 flex flex-col">
@@ -44,7 +40,7 @@ export default function PhoneMockup() {
           <div className="absolute top-2 left-1/2 -translate-x-1/2 z-30 w-24 h-4 bg-black rounded-full flex items-center justify-between px-2.5 shadow-md">
             <div className="w-2 h-2 rounded-full bg-[#1e1319] border border-white/10" />
             <div className="w-2.5 h-2.5 rounded-full bg-[#0a0508] border border-white/20 flex items-center justify-center">
-              <div className="w-1 h-1 rounded-full bg-[#D2056E]" />
+              <div className="w-1 h-1 rounded-full bg-[#D4AF37]" />
             </div>
           </div>
 
@@ -83,7 +79,7 @@ export default function PhoneMockup() {
                   onClick={() => setCurrentScreenIndex(idx)}
                   className={`h-1.5 rounded-full transition-all duration-300 ease-out ${
                     currentScreenIndex === idx
-                      ? "w-6 bg-[#D2056E]"
+                      ? "w-6 bg-[#D4AF37]"
                       : "w-1.5 bg-white/30 hover:bg-white/50"
                   }`}
                   aria-label={`Go to slide ${idx + 1}`}

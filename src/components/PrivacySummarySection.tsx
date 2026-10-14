@@ -8,7 +8,7 @@ export default function PrivacySummarySection() {
     <section className="py-16 relative z-10">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         
-        <div className="p-8 sm:p-12 rounded-3xl glass-panel-glow border border-[#D2056E]/30 relative overflow-hidden flex flex-col md:flex-row items-center justify-between gap-8">
+        <div className="p-8 sm:p-12 rounded-3xl glass-panel-glow border border-[#D4AF37]/30 relative overflow-hidden flex flex-col md:flex-row items-center justify-between gap-8">
           
           <div className="space-y-4 max-w-2xl text-center md:text-left">
             <div className="inline-flex items-center gap-2 px-3.5 py-1 rounded-full bg-emerald-500/10 border border-emerald-500/30 text-emerald-400 text-xs font-bold uppercase tracking-wider">
@@ -21,7 +21,7 @@ export default function PrivacySummarySection() {
             </h3>
 
             <p className="text-gray-300 text-sm sm:text-base leading-relaxed">
-              VeloraLive never sells user personal information or stream analytics to third parties. All chat transmissions, payment processing, and account telemetry are encrypted with TLS 1.3 protocol standards.
+              PigoLive never sells user personal information or stream analytics to third parties. All chat transmissions, payment processing, and account telemetry are encrypted with TLS 1.3 protocol standards.
             </p>
 
             <div className="flex flex-wrap items-center justify-center md:justify-start gap-6 text-xs text-gray-300 pt-1">
@@ -46,7 +46,7 @@ export default function PrivacySummarySection() {
               className="px-6 py-3.5 rounded-full glass-panel hover:bg-white/10 border border-white/20 text-white font-bold text-sm flex items-center gap-2.5 transition-all group"
             >
               <span>Read Privacy Policy</span>
-              <ArrowRight className="w-4 h-4 transform group-hover:translate-x-1 transition-transform text-[#D2056E]" />
+              <ArrowRight className="w-4 h-4 transform group-hover:translate-x-1 transition-transform text-[#D4AF37]" />
             </Link>
           </div>
 

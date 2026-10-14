@@ -1,8 +1,8 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Account Deletion Instructions - Velora Live",
-  description: "Official Account Deletion instructions and web deletion request form for Velora Live in compliance with Google Play Policies.",
+  title: "Account Deletion Instructions - Pigo Live",
+  description: "Official Account Deletion instructions and web deletion request form for Pigo Live in compliance with Google Play Policies.",
 };
 
 export default function AccountDeletePage() {
@@ -16,24 +16,24 @@ export default function AccountDeletePage() {
           </span>
           <h1 className="text-3xl sm:text-5xl font-black text-white">Account Deletion Request &amp; Instructions</h1>
           <div className="flex flex-wrap gap-4 text-xs text-gray-400">
-            <p><span className="font-semibold text-gray-300">App Name:</span> Velora Live</p>
-            <p><span className="font-semibold text-gray-300">Package:</span> <code className="bg-white/10 px-1.5 py-0.5 rounded text-pink-400">com.veloralive.app</code></p>
+            <p><span className="font-semibold text-gray-300">App Name:</span> Pigo Live</p>
+            <p><span className="font-semibold text-gray-300">Package:</span> <code className="bg-white/10 px-1.5 py-0.5 rounded text-pink-400">com.pigobdlive.app</code></p>
           </div>
         </div>
 
         <div className="space-y-8 text-gray-300 text-sm sm:text-base leading-relaxed">
           <div className="bg-white/5 border border-white/10 rounded-2xl p-6 space-y-3">
             <p>
-              In compliance with <strong className="text-white">Google Play Developer Data Deletion Policies</strong>, <strong className="text-white">Velora Live</strong> provides all users with full control to delete their account and associated personal data at any time.
+              In compliance with <strong className="text-white">Google Play Developer Data Deletion Policies</strong>, <strong className="text-white">Pigo Live</strong> provides all users with full control to delete their account and associated personal data at any time.
             </p>
           </div>
 
           {/* Method 1 */}
           <section className="space-y-4 border-b border-white/5 pb-6">
             <h2 className="text-xl sm:text-2xl font-bold text-white">Method 1: Delete Account Inside the Mobile App (Recommended)</h2>
-            <p>You can delete your account directly inside the <strong className="text-white">Velora Live</strong> app by following these steps:</p>
+            <p>You can delete your account directly inside the <strong className="text-white">Pigo Live</strong> app by following these steps:</p>
             <ol className="list-decimal pl-5 space-y-2.5 text-gray-300">
-              <li>Open the <strong className="text-white">Velora Live</strong> app on your mobile device.</li>
+              <li>Open the <strong className="text-white">Pigo Live</strong> app on your mobile device.</li>
               <li>Go to your <strong className="text-white">Profile</strong> tab (bottom right icon).</li>
               <li>Tap the <strong className="text-white">Settings</strong> gear icon in the top right corner.</li>
               <li>Select <strong className="text-white">Account &amp; Security</strong>.</li>
@@ -52,10 +52,10 @@ export default function AccountDeletePage() {
               <ol className="list-decimal pl-5 space-y-2.5 text-sm text-gray-200">
                 <li>
                   Send an email to{" "}
-                  <a href="mailto:zonykhan2026@gmail.com" className="text-pink-400 font-mono underline">
-                    zonykhan2026@gmail.com
+                  <a href="mailto:pigobdlive@gmail.com" className="text-pink-400 font-mono underline">
+                    pigobdlive@gmail.com
                   </a>{" "}
-                  from the email address registered with your Velora Live account.
+                  from the email address registered with your Pigo Live account.
                 </li>
                 <li>
                   Set the email subject as: <code className="bg-white/10 px-1.5 py-0.5 rounded text-pink-300">&quot;Account Deletion Request - [Your Registered Email / User ID]&quot;</code>.
@@ -65,7 +65,7 @@ export default function AccountDeletePage() {
                   <ul className="list-disc pl-5 pt-1 space-y-1 text-gray-300 text-xs sm:text-sm">
                     <li>Your <strong className="text-white">User Name &amp; User ID</strong> (if known).</li>
                     <li>Your <strong className="text-white">Registered Email Address or Phone Number</strong>.</li>
-                    <li>A brief statement: <em>&quot;I request the permanent deletion of my Velora Live account and all associated personal data.&quot;</em></li>
+                    <li>A brief statement: <em>&quot;I request the permanent deletion of my Pigo Live account and all associated personal data.&quot;</em></li>
                   </ul>
                 </li>
               </ol>
@@ -94,8 +94,8 @@ export default function AccountDeletePage() {
             <div className="bg-white/5 p-6 rounded-2xl border border-white/10 space-y-3">
               <p className="text-sm">
                 <strong className="text-white">Customer Support Email:</strong>{" "}
-                <a href="mailto:zonykhan2026@gmail.com" className="text-pink-400 font-mono underline">
-                  zonykhan2026@gmail.com
+                <a href="mailto:pigobdlive@gmail.com" className="text-pink-400 font-mono underline">
+                  pigobdlive@gmail.com
                 </a>
               </p>
             </div>

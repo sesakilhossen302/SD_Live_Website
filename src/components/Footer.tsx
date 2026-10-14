@@ -9,7 +9,7 @@ export default function Footer() {
     <footer className="relative bg-[#12070E] border-t border-white/10 pt-16 pb-12 overflow-hidden z-10">
       
       {/* Background Subtle Radial Glow */}
-      <div className="absolute bottom-0 left-1/2 -translate-x-1/2 w-full max-w-6xl h-64 bg-gradient-to-t from-[#D2056E]/15 to-transparent blur-[120px] pointer-events-none" />
+      <div className="absolute bottom-0 left-1/2 -translate-x-1/2 w-full max-w-6xl h-64 bg-gradient-to-t from-[#D4AF37]/15 to-transparent blur-[120px] pointer-events-none" />
 
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-12 gap-10 lg:gap-8 pb-12 border-b border-white/10">
@@ -17,13 +17,13 @@ export default function Footer() {
           {/* Brand Info (4 cols) */}
           <div className="lg:col-span-4 space-y-4">
             <Link href="/" className="flex items-center gap-3 group">
-              <div className="relative w-10 h-10 rounded-xl bg-gradient-to-tr from-[#D2056E] via-[#990C57] to-[#711345] p-[1.5px]">
-                <div className="w-full h-full bg-[#170B13] rounded-[10px] flex items-center justify-center">
-                  <Image src="/logo.png" alt="VeloraLive Logo" width={28} height={28} className="object-contain" />
+              <div className="relative w-11 h-11 rounded-xl bg-gradient-to-tr from-[#FF5E3A] via-[#FF2A6D] to-[#9B51E0] p-[2px] shadow-lg shadow-purple-500/25">
+                <div className="w-full h-full bg-[#0a0c1a] rounded-[9px] flex items-center justify-center overflow-hidden p-1">
+                  <Image src="/pigo-live.png" alt="Pigo Live Logo" width={36} height={36} unoptimized className="w-full h-full object-contain" />
                 </div>
               </div>
               <span className="font-black text-2xl tracking-tight text-white">
-                Velora<span className="text-[#D2056E]">Live</span>
+                Pigo<span className="text-[#D4AF37]">Live</span>
               </span>
             </Link>
 
@@ -84,10 +84,10 @@ export default function Footer() {
             <div className="flex flex-wrap gap-2.5">
               {/* Facebook */}
               <a
-                href="https://www.facebook.com/share/19RPmS2j3o/"
+                href="#"
                 target="_blank"
                 rel="noreferrer"
-                className="w-10 h-10 rounded-xl bg-white/[0.06] hover:bg-[#D2056E] border border-white/10 text-white flex items-center justify-center transition-all"
+                className="w-10 h-10 rounded-xl bg-white/[0.06] hover:bg-[#D4AF37] border border-white/10 text-white flex items-center justify-center transition-all"
                 aria-label="Facebook"
               >
                 <svg className="w-5 h-5 fill-current" viewBox="0 0 24 24">
@@ -97,10 +97,10 @@ export default function Footer() {
 
               {/* TikTok */}
               <a
-                href="https://www.tiktok.com/@veloralive2?is_from_webapp=1&sender_device=pc"
+                href="#"
                 target="_blank"
                 rel="noreferrer"
-                className="w-10 h-10 rounded-xl bg-white/[0.06] hover:bg-[#D2056E] border border-white/10 text-white flex items-center justify-center transition-all"
+                className="w-10 h-10 rounded-xl bg-white/[0.06] hover:bg-[#D4AF37] border border-white/10 text-white flex items-center justify-center transition-all"
                 aria-label="TikTok"
               >
                 <svg className="w-5 h-5 fill-current" viewBox="0 0 24 24">
@@ -110,10 +110,10 @@ export default function Footer() {
 
               {/* YouTube */}
               <a
-                href="https://youtube.com/@veloralive-b9b?si=7RtrC4hX-_lsSVm0"
+                href="#"
                 target="_blank"
                 rel="noreferrer"
-                className="w-10 h-10 rounded-xl bg-white/[0.06] hover:bg-[#D2056E] border border-white/10 text-white flex items-center justify-center transition-all"
+                className="w-10 h-10 rounded-xl bg-white/[0.06] hover:bg-[#D4AF37] border border-white/10 text-white flex items-center justify-center transition-all"
                 aria-label="YouTube"
               >
                 <svg className="w-5 h-5 fill-current" viewBox="0 0 24 24">
@@ -127,9 +127,9 @@ export default function Footer() {
 
         {/* Bottom Bar Copyright */}
         <div className="pt-8 flex flex-col sm:flex-row items-center justify-between gap-4 text-xs text-gray-500">
-          <p>© {new Date().getFullYear()} VeloraLive Inc. All rights reserved.</p>
+          <p>© {new Date().getFullYear()} PigoLive Inc. All rights reserved.</p>
           <p className="flex items-center gap-1">
-            Made with <Heart className="w-3.5 h-3.5 text-[#D2056E] fill-[#D2056E]" /> for broadcasers worldwide.
+            Made with <Heart className="w-3.5 h-3.5 text-[#D4AF37] fill-[#D4AF37]" /> for broadcasers worldwide.
           </p>
         </div>
       </div>

@@ -8,16 +8,16 @@ const features = [
     icon: Video,
     title: "HD Live Streaming",
     description: "Broadcast in stunning 1080p 60fps HD with zero latency. Adaptive bitrate streaming ensures smooth video on any cellular or Wi-Fi network.",
-    color: "from-[#D2056E] to-[#990C57]",
-    borderColor: "border-[#D2056E]/30",
+    color: "from-[#D4AF37] to-[#B5952F]",
+    borderColor: "border-[#D4AF37]/30",
     badge: "1080p 60fps",
   },
   {
     icon: Lock,
     title: "Private Rooms",
     description: "Host invite-only private streaming rooms for exclusive fan hangouts, VIP performances, and 1-on-1 fan interactions with passcode protection.",
-    color: "from-[#990C57] to-[#711345]",
-    borderColor: "border-[#990C57]/30",
+    color: "from-[#B5952F] to-[#8A7322]",
+    borderColor: "border-[#B5952F]/30",
     badge: "VIP Exclusive",
   },
   {
@@ -64,7 +64,7 @@ const features = [
     icon: Crown,
     title: "Premium Experience",
     description: "Clean dark luxury aesthetic, custom profile customization, verified creator crowns, animated frames, and exclusive sound FX.",
-    color: "from-[#D2056E] to-amber-500",
+    color: "from-[#D4AF37] to-amber-500",
     borderColor: "border-amber-500/30",
     badge: "Luxury UI",
   },
@@ -77,7 +77,7 @@ export default function FeaturesGrid() {
         
         {/* Section Header */}
         <div className="text-center space-y-4 max-w-3xl mx-auto mb-20">
-          <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full glass-panel-glow text-xs font-bold text-[#D2056E] border border-[#D2056E]/30 uppercase tracking-widest">
+          <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full glass-panel-glow text-xs font-bold text-[#D4AF37] border border-[#D4AF37]/30 uppercase tracking-widest">
             <Sparkles className="w-3.5 h-3.5" />
             <span>Power & Elegance</span>
           </div>
@@ -101,16 +101,16 @@ export default function FeaturesGrid() {
                 viewport={{ once: true, margin: "-50px" }}
                 transition={{ duration: 0.5, delay: idx * 0.08 }}
                 whileHover={{ y: -8, scale: 1.02 }}
-                className={`group relative p-6 sm:p-8 rounded-3xl glass-panel border ${feature.borderColor} hover:border-[#D2056E]/60 transition-all duration-300 flex flex-col justify-between overflow-hidden shadow-xl`}
+                className={`group relative p-6 sm:p-8 rounded-3xl glass-panel border ${feature.borderColor} hover:border-[#D4AF37]/60 transition-all duration-300 flex flex-col justify-between overflow-hidden shadow-xl`}
               >
                 {/* Background Card Radial Glow on Hover */}
-                <div className="absolute top-0 right-0 -mr-16 -mt-16 w-32 h-32 rounded-full bg-[#D2056E]/10 group-hover:bg-[#D2056E]/25 blur-2xl transition-all duration-500 pointer-events-none" />
+                <div className="absolute top-0 right-0 -mr-16 -mt-16 w-32 h-32 rounded-full bg-[#D4AF37]/10 group-hover:bg-[#D4AF37]/25 blur-2xl transition-all duration-500 pointer-events-none" />
 
                 <div>
                   {/* Top Icon & Badge */}
                   <div className="flex items-center justify-between mb-6">
-                    <div className={`w-12 h-12 rounded-2xl bg-gradient-to-br ${feature.color} p-[1px] shadow-lg shadow-[#D2056E]/20 group-hover:shadow-[#D2056E]/40 transition-all duration-300`}>
-                      <div className="w-full h-full bg-[#170B13] rounded-[15px] flex items-center justify-center text-white">
+                    <div className={`w-12 h-12 rounded-2xl bg-gradient-to-br ${feature.color} p-[1px] shadow-lg shadow-[#D4AF37]/20 group-hover:shadow-[#D4AF37]/40 transition-all duration-300`}>
+                      <div className="w-full h-full bg-[#0f1126] rounded-[15px] flex items-center justify-center text-white">
                         <Icon className="w-6 h-6 transform group-hover:scale-110 transition-transform duration-300" />
                       </div>
                     </div>
@@ -129,7 +129,7 @@ export default function FeaturesGrid() {
                 </div>
 
                 {/* Card Bottom Accent Line */}
-                <div className="mt-8 pt-4 border-t border-white/10 flex items-center justify-between text-xs font-semibold text-[#D2056E] opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+                <div className="mt-8 pt-4 border-t border-white/10 flex items-center justify-between text-xs font-semibold text-[#D4AF37] opacity-0 group-hover:opacity-100 transition-opacity duration-300">
                   <span>Explore feature</span>
                   <ArrowRight className="w-4 h-4 transform group-hover:translate-x-1 transition-transform" />
                 </div>

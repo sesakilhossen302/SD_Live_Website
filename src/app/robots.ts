@@ -7,6 +7,6 @@ export default function robots(): MetadataRoute.Robots {
       allow: "/",
       disallow: "/private/",
     },
-    sitemap: "https://veloralive.com/sitemap.xml",
+    sitemap: "https://pigobdlive.app/sitemap.xml",
   };
 }

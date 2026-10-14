@@ -1,28 +1,28 @@
-# DMCA & Copyright Policy for Velora Live
+# DMCA & Copyright Policy for Pigo Live
 
 **Effective Date:** July 23, 2026  
 **Last Updated:** July 23, 2026  
-**Package Name:** `com.veloralive.app`
+**Package Name:** `com.pigobdlive.app`
 
-**Velora Live** respects the intellectual property rights of creators, broadcasters, musicians, and artists. We expect all users, hosts, and content creators on our platform to do the same.
+**Pigo Live** respects the intellectual property rights of creators, broadcasters, musicians, and artists. We expect all users, hosts, and content creators on our platform to do the same.
 
-In accordance with the **Digital Millennium Copyright Act (DMCA)** and international copyright laws, **Velora Live** will respond expeditiously to notices of alleged copyright infringement committed using our application.
+In accordance with the **Digital Millennium Copyright Act (DMCA)** and international copyright laws, **Pigo Live** will respond expeditiously to notices of alleged copyright infringement committed using our application.
 
 ---
 
 ## 1. Reporting Copyright Infringement (DMCA Takedown Notice)
 
-If you are a copyright owner, or authorized to act on behalf of one, and believe that any content hosted or broadcasted on **Velora Live** infringes upon your copyright, please submit a written DMCA Notice containing the following information:
+If you are a copyright owner, or authorized to act on behalf of one, and believe that any content hosted or broadcasted on **Pigo Live** infringes upon your copyright, please submit a written DMCA Notice containing the following information:
 
 1. **Identification of Copyrighted Work:** A description of the copyrighted work claimed to have been infringed (or a representative list of works).
-2. **Identification of Infringing Content:** The exact URL, live stream ID, host user ID, or screenshot/link pointing to the infringing material on Velora Live.
+2. **Identification of Infringing Content:** The exact URL, live stream ID, host user ID, or screenshot/link pointing to the infringing material on Pigo Live.
 3. **Contact Information:** Your full legal name, company name (if applicable), physical address, telephone number, and email address.
 4. **Good Faith Statement:** A statement that you have a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law.
 5. **Accuracy & Penalty Statement:** A statement made under penalty of perjury that the information in the notification is accurate and that you are authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
 6. **Signature:** A physical or electronic signature of the copyright owner or authorized representative.
 
 Submit your DMCA Notice to our designated Copyright Agent:
-- **Designated Copyright Agent Email:** `zonykhan2026@gmail.com`
+- **Designated Copyright Agent Email:** `pigobdlive@gmail.com`
 - **Subject:** "DMCA Takedown Notice"
 
 ---
@@ -37,13 +37,13 @@ If your live stream, status post, or media file was removed due to a copyright t
 4. Your consent to the jurisdiction of applicable courts for legal proceedings.
 5. Your physical or electronic signature.
 
-Send counter-notices to **`zonykhan2026@gmail.com`**.
+Send counter-notices to **`pigobdlive@gmail.com`**.
 
 ---
 
 ## 3. Repeat Infringer Policy
 
-In accordance with DMCA guidelines and Google Play Policies, **Velora Live** enforces a **Three-Strike Policy** for repeat copyright infringers:
+In accordance with DMCA guidelines and Google Play Policies, **Pigo Live** enforces a **Three-Strike Policy** for repeat copyright infringers:
 
 - **1st Strike:** Removal of infringing content / immediate live stream termination + warning.
 - **2nd Strike:** 7-day broadcast ban and account feature restriction.
@@ -53,5 +53,5 @@ In accordance with DMCA guidelines and Google Play Policies, **Velora Live** enf
 
 ## 4. Contact Copyright Team
 
-- **App Name:** Velora Live (`com.veloralive.app`)
-- **Copyright Agent Email:** `zonykhan2026@gmail.com`
+- **App Name:** Pigo Live (`com.pigobdlive.app`)
+- **Copyright Agent Email:** `pigobdlive@gmail.com`

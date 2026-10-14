@@ -10,7 +10,7 @@ export default function AboutSection() {
         
         {/* Section Header */}
         <div className="text-center space-y-4 max-w-3xl mx-auto mb-20">
-          <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full glass-panel-glow text-xs font-bold text-[#D2056E] border border-[#D2056E]/30 uppercase tracking-widest">
+          <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full glass-panel-glow text-xs font-bold text-[#D4AF37] border border-[#D4AF37]/30 uppercase tracking-widest">
             <Sparkles className="w-3.5 h-3.5" />
             <span>Our Story & Values</span>
           </div>
@@ -18,7 +18,7 @@ export default function AboutSection() {
             Redefining <span className="text-gradient">Live Entertainment</span>
           </h2>
           <p className="text-gray-300 text-base sm:text-lg">
-            VeloraLive was born with a single passion: empowering creators with a luxury platform that turns talent into sustainable revenue while giving fans unforgettable interactive experiences.
+            PigoLive was born with a single passion: empowering creators with a luxury platform that turns talent into sustainable revenue while giving fans unforgettable interactive experiences.
           </p>
         </div>
 
@@ -31,16 +31,16 @@ export default function AboutSection() {
             whileInView={{ opacity: 1, x: 0 }}
             viewport={{ once: true }}
             transition={{ duration: 0.6 }}
-            className="p-8 sm:p-10 rounded-3xl glass-panel-glow border border-[#D2056E]/40 space-y-6 relative overflow-hidden group"
+            className="p-8 sm:p-10 rounded-3xl glass-panel-glow border border-[#D4AF37]/40 space-y-6 relative overflow-hidden group"
           >
-            <div className="w-14 h-14 rounded-2xl bg-gradient-to-tr from-[#D2056E] to-[#990C57] p-[1px] shadow-lg shadow-[#D2056E]/30">
-              <div className="w-full h-full bg-[#170B13] rounded-[15px] flex items-center justify-center text-white">
-                <Target className="w-7 h-7 text-[#D2056E]" />
+            <div className="w-14 h-14 rounded-2xl bg-gradient-to-tr from-[#D4AF37] to-[#B5952F] p-[1px] shadow-lg shadow-[#D4AF37]/30">
+              <div className="w-full h-full bg-[#0f1126] rounded-[15px] flex items-center justify-center text-white">
+                <Target className="w-7 h-7 text-[#D4AF37]" />
               </div>
             </div>
 
             <div className="space-y-3">
-              <span className="text-xs font-bold text-[#D2056E] uppercase tracking-widest">OUR MISSION</span>
+              <span className="text-xs font-bold text-[#D4AF37] uppercase tracking-widest">OUR MISSION</span>
               <h3 className="text-2xl sm:text-3xl font-extrabold text-white">
                 Empower 1 Million Broadcasters
               </h3>
@@ -69,8 +69,8 @@ export default function AboutSection() {
             transition={{ duration: 0.6 }}
             className="p-8 sm:p-10 rounded-3xl glass-panel border border-white/15 space-y-6 relative overflow-hidden group"
           >
-            <div className="w-14 h-14 rounded-2xl bg-gradient-to-tr from-[#990C57] to-[#711345] p-[1px] shadow-lg shadow-[#990C57]/30">
-              <div className="w-full h-full bg-[#170B13] rounded-[15px] flex items-center justify-center text-white">
+            <div className="w-14 h-14 rounded-2xl bg-gradient-to-tr from-[#B5952F] to-[#8A7322] p-[1px] shadow-lg shadow-[#B5952F]/30">
+              <div className="w-full h-full bg-[#0f1126] rounded-[15px] flex items-center justify-center text-white">
                 <Eye className="w-7 h-7 text-pink-300" />
               </div>
             </div>
@@ -99,20 +99,20 @@ export default function AboutSection() {
 
         </div>
 
-        {/* Why VeloraLive Section */}
+        {/* Why PigoLive Section */}
         <div className="p-8 sm:p-12 rounded-3xl glass-panel border border-white/10 space-y-8">
           <div className="text-center max-w-2xl mx-auto space-y-2">
             <h3 className="text-2xl sm:text-4xl font-extrabold text-white">
-              Why <span className="text-gradient">VeloraLive?</span>
+              Why <span className="text-gradient">PigoLive?</span>
             </h3>
             <p className="text-gray-300 text-sm sm:text-base">
-              Unlike traditional legacy platforms, VeloraLive prioritizes high bitrate video quality, creator earnings, and ultra-fast room loading speeds.
+              Unlike traditional legacy platforms, PigoLive prioritizes high bitrate video quality, creator earnings, and ultra-fast room loading speeds.
             </p>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
             <div className="p-6 rounded-2xl bg-white/[0.03] border border-white/10 space-y-3">
-              <div className="text-2xl font-black text-[#D2056E]">01. Premium Aesthetic</div>
+              <div className="text-2xl font-black text-[#D4AF37]">01. Premium Aesthetic</div>
               <p className="text-gray-300 text-xs sm:text-sm leading-relaxed">
                 Clean dark luxury design with glassmorphism, soft glowing highlights, and zero intrusive legacy banner advertisements.
               </p>
@@ -124,7 +124,7 @@ export default function AboutSection() {
               </p>
             </div>
             <div className="p-6 rounded-2xl bg-white/[0.03] border border-white/10 space-y-3">
-              <div className="text-2xl font-black text-[#D2056E]">03. Safety First</div>
+              <div className="text-2xl font-black text-[#D4AF37]">03. Safety First</div>
               <p className="text-gray-300 text-xs sm:text-sm leading-relaxed">
                 Automated 24/7 AI moderation and manual compliance officers ensure a respectful, harassment-free live streaming atmosphere.
               </p>

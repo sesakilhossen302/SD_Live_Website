@@ -1,16 +1,16 @@
-# Data Deletion & Data Retention Policy for Velora Live
+# Data Deletion & Data Retention Policy for Pigo Live
 
 **Effective Date:** July 23, 2026  
 **Last Updated:** July 23, 2026  
-**Package Name:** `com.veloralive.app`
+**Package Name:** `com.pigobdlive.app`
 
-This **Data Deletion Policy** describes how **Velora Live** handles the deletion, purging, and retention of user data when an account is deleted or when data retention periods expire.
+This **Data Deletion Policy** describes how **Pigo Live** handles the deletion, purging, and retention of user data when an account is deleted or when data retention periods expire.
 
 ---
 
 ## 1. User Right to Data Erasure
 
-In accordance with global privacy regulations (GDPR, CCPA, and Google Play Data Policies), all users of **Velora Live** have the right to request the permanent deletion of their personal information and user-generated content.
+In accordance with global privacy regulations (GDPR, CCPA, and Google Play Data Policies), all users of **Pigo Live** have the right to request the permanent deletion of their personal information and user-generated content.
 
 ---
 
@@ -47,13 +47,13 @@ Certain limited data may be retained after account deletion where strictly requi
 
 Users can request data deletion through two methods detailed in our [Account Deletion Guide](ACCOUNT_DELETE.md):
 - **In-App:** Profile > Settings > Account & Security > Delete Account.
-- **Email Request:** Send an email to **`zonykhan2026@gmail.com`** with subject *"Data Deletion Request"*.
+- **Email Request:** Send an email to **`pigobdlive@gmail.com`** with subject *"Data Deletion Request"*.
 
 ---
 
 ## 6. Contact Us
 
 For questions regarding data retention or data privacy practices:
-- **App Name:** Velora Live (`com.veloralive.app`)
-- **Privacy Email:** `zonykhan2026@gmail.com`
+- **App Name:** Pigo Live (`com.pigobdlive.app`)
+- **Privacy Email:** `pigobdlive@gmail.com`
 - **Privacy Policy:** [PRIVACY_POLICY.md](PRIVACY_POLICY.md)

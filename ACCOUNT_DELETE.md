@@ -1,17 +1,17 @@
-# Account Deletion Request & Instructions for Velora Live
+# Account Deletion Request & Instructions for Pigo Live
 
-**App Name:** Velora Live  
-**Package Name:** `com.veloralive.app`  
+**App Name:** Pigo Live  
+**Package Name:** `com.pigobdlive.app`  
 
-In compliance with **Google Play Developer Data Deletion Policies**, **Velora Live** provides all users with full control to delete their account and associated personal data at any time.
+In compliance with **Google Play Developer Data Deletion Policies**, **Pigo Live** provides all users with full control to delete their account and associated personal data at any time.
 
 ---
 
 ## Method 1: Delete Account Inside the Mobile App (Recommended)
 
-You can delete your account directly inside the **Velora Live** app by following these steps:
+You can delete your account directly inside the **Pigo Live** app by following these steps:
 
-1. Open the **Velora Live** app on your mobile device.
+1. Open the **Pigo Live** app on your mobile device.
 2. Go to your **Profile** tab (bottom right icon).
 3. Tap the **Settings** gear icon in the top right corner.
 4. Select **Account & Security**.
@@ -25,12 +25,12 @@ You can delete your account directly inside the **Velora Live** app by following
 
 If you have uninstalled the app or lost access to your device, you can submit an account deletion request via email:
 
-1. Send an email to **`zonykhan2026@gmail.com`** from the email address registered with your Velora Live account.
+1. Send an email to **`pigobdlive@gmail.com`** from the email address registered with your Pigo Live account.
 2. Set the email subject as: **"Account Deletion Request - [Your Registered Email / User ID]"**.
 3. Include the following details in your email body:
    - Your **User Name** & **User ID** (if known).
    - Your **Registered Email Address** or **Phone Number**.
-   - A brief statement: *"I request the permanent deletion of my Velora Live account and all associated personal data."*
+   - A brief statement: *"I request the permanent deletion of my Pigo Live account and all associated personal data."*
 
 Our support team will verify your identity and process your deletion request within **5 to 7 business days**.
 
@@ -54,4 +54,4 @@ For complete details on retained legal logs, please refer to our [Data Deletion 
 
 ## Need Assistance?
 
-If you experience any issues deleting your account, contact customer support at **`zonykhan2026@gmail.com`**.
+If you experience any issues deleting your account, contact customer support at **`pigobdlive@gmail.com`**.

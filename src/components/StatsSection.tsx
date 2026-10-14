@@ -45,17 +45,17 @@ function StatCounter({ icon: Icon, targetNumber, suffix, label, sublabel, delay 
       initial={{ opacity: 0, y: 30 }}
       animate={isInView ? { opacity: 1, y: 0 } : {}}
       transition={{ duration: 0.6, delay }}
-      className="relative p-8 rounded-3xl glass-panel-glow border border-[#D2056E]/30 text-center group hover:scale-[1.03] transition-transform duration-300"
+      className="relative p-8 rounded-3xl glass-panel-glow border border-[#D4AF37]/30 text-center group hover:scale-[1.03] transition-transform duration-300"
     >
-      <div className="w-14 h-14 mx-auto mb-4 rounded-2xl bg-gradient-to-tr from-[#D2056E] to-[#711345] p-[1px] shadow-lg shadow-[#D2056E]/30 group-hover:shadow-[#D2056E]/60 transition-all">
-        <div className="w-full h-full bg-[#170B13] rounded-[15px] flex items-center justify-center text-white">
-          <Icon className="w-7 h-7 text-[#D2056E] group-hover:scale-110 transition-transform" />
+      <div className="w-14 h-14 mx-auto mb-4 rounded-2xl bg-gradient-to-tr from-[#D4AF37] to-[#8A7322] p-[1px] shadow-lg shadow-[#D4AF37]/30 group-hover:shadow-[#D4AF37]/60 transition-all">
+        <div className="w-full h-full bg-[#0f1126] rounded-[15px] flex items-center justify-center text-white">
+          <Icon className="w-7 h-7 text-[#D4AF37] group-hover:scale-110 transition-transform" />
         </div>
       </div>
 
       <div className="text-4xl sm:text-5xl font-black text-white tracking-tight mb-2 flex items-center justify-center font-poppins">
         <span>{count.toLocaleString()}</span>
-        <span className="text-[#D2056E] font-black">{suffix}</span>
+        <span className="text-[#D4AF37] font-black">{suffix}</span>
       </div>
 
       <h3 className="text-lg font-bold text-gray-100 mb-1">{label}</h3>
@@ -71,7 +71,7 @@ export default function StatsSection() {
         
         <div className="relative rounded-3xl glass-panel p-8 sm:p-12 border border-white/10 overflow-hidden">
           {/* Subtle background glow */}
-          <div className="absolute inset-0 bg-gradient-to-r from-[#D2056E]/10 via-[#990C57]/10 to-[#711345]/10 pointer-events-none" />
+          <div className="absolute inset-0 bg-gradient-to-r from-[#D4AF37]/10 via-[#B5952F]/10 to-[#8A7322]/10 pointer-events-none" />
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6 sm:gap-8 relative z-10">
             <StatCounter

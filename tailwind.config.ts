@@ -9,14 +9,14 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        velora: {
-          pink: "#D2056E",
-          magenta: "#990C57",
-          purple: "#711345",
-          crimson: "#551128",
-          dark: "#2A1721",
-          black: "#170B13",
-          light: "#FFF0F7",
+        pigo: {
+          gold: "#D4AF37",
+          "gold-rich": "#B5952F",
+          "gold-deep": "#8A7322",
+          "gold-dark": "#5E4D17",
+          "gold-darkest": "#2C2513",
+          black: "#0f1126",
+          "gold-light": "#FDF6E3",
         },
       },
       fontFamily: {
@@ -63,11 +63,11 @@ const config: Config = {
       },
       backgroundImage: {
         "brand-gradient":
-          "linear-gradient(135deg, #D2056E 0%, #990C57 25%, #711345 50%, #551128 75%, #2A1721 100%)",
+          "linear-gradient(135deg, #D4AF37 0%, #B5952F 25%, #8A7322 50%, #5E4D17 75%, #2C2513 100%)",
         "glass-gradient":
           "linear-gradient(135deg, rgba(255, 255, 255, 0.07) 0%, rgba(255, 255, 255, 0.02) 100%)",
         "glow-radial":
-          "radial-gradient(circle, rgba(210, 5, 110, 0.35) 0%, rgba(42, 23, 33, 0) 70%)",
+          "radial-gradient(circle, rgba(212, 175, 55, 0.35) 0%, rgba(42, 23, 33, 0) 70%)",
       },
     },
   },

@@ -23,11 +23,11 @@ export default function Hero() {
               initial={{ opacity: 0, scale: 0.9 }}
               animate={{ opacity: 1, scale: 1 }}
               transition={{ delay: 0.2, duration: 0.5 }}
-              className="inline-flex items-center gap-2 px-4 py-2 rounded-full glass-panel-glow text-xs sm:text-sm font-semibold text-pink-200 border border-[#D2056E]/40"
+              className="inline-flex items-center gap-2 px-4 py-2 rounded-full glass-panel-glow text-xs sm:text-sm font-semibold text-pink-200 border border-[#D4AF37]/40"
             >
-              <Sparkles className="w-4 h-4 text-[#D2056E] animate-spin" style={{ animationDuration: "6s" }} />
+              <Sparkles className="w-4 h-4 text-[#D4AF37] animate-spin" style={{ animationDuration: "6s" }} />
               <span>Next-Gen Live Streaming & Creator Economy</span>
-              <span className="px-2 py-0.5 rounded-full bg-[#D2056E] text-white text-[10px] uppercase font-bold tracking-wider">
+              <span className="px-2 py-0.5 rounded-full bg-[#D4AF37] text-white text-[10px] uppercase font-bold tracking-wider">
                 v2.4
               </span>
             </motion.div>
@@ -61,7 +61,7 @@ export default function Hero() {
                 href="/#features"
                 className="w-full sm:w-auto px-8 py-4 rounded-full font-semibold text-base text-gray-200 glass-panel hover:bg-white/[0.08] hover:text-white border border-white/15 flex items-center justify-center gap-3 transition-all duration-300"
               >
-                <Play className="w-5 h-5 text-[#D2056E] fill-[#D2056E]" />
+                <Play className="w-5 h-5 text-[#D4AF37] fill-[#D4AF37]" />
                 <span>Learn More</span>
               </Link>
             </div>
@@ -70,9 +70,9 @@ export default function Hero() {
             <div className="pt-6 border-t border-white/10 flex flex-wrap items-center justify-center lg:justify-start gap-6 sm:gap-8 text-gray-400 text-xs sm:text-sm">
               <div className="flex items-center gap-2">
                 <div className="flex -space-x-2">
-                  <div className="w-7 h-7 rounded-full bg-[#D2056E] border-2 border-[#2A1721] flex items-center justify-center text-white text-[10px] font-bold">★</div>
-                  <div className="w-7 h-7 rounded-full bg-[#990C57] border-2 border-[#2A1721] flex items-center justify-center text-white text-[10px] font-bold">★</div>
-                  <div className="w-7 h-7 rounded-full bg-[#711345] border-2 border-[#2A1721] flex items-center justify-center text-white text-[10px] font-bold">★</div>
+                  <div className="w-7 h-7 rounded-full bg-[#D4AF37] border-2 border-[#2C2513] flex items-center justify-center text-white text-[10px] font-bold">★</div>
+                  <div className="w-7 h-7 rounded-full bg-[#B5952F] border-2 border-[#2C2513] flex items-center justify-center text-white text-[10px] font-bold">★</div>
+                  <div className="w-7 h-7 rounded-full bg-[#8A7322] border-2 border-[#2C2513] flex items-center justify-center text-white text-[10px] font-bold">★</div>
                 </div>
                 <span className="font-medium text-gray-300">4.9/5 Rating (50K+ Reviews)</span>
               </div>
