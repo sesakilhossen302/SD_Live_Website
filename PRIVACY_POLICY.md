@@ -91,7 +91,7 @@ In compliance with Google Play Developer Policies, users have the right to reque
 1. **In-App Deletion Path:**  
    Go to **Settings** > **Account & Security** > **Delete Account** inside the App and confirm your password/authentication.
 2. **Email Request Path:**  
-   If you cannot access your account, send an email request to our support team at **`pigobdlive@gmail.com`** from your registered email address with the subject **"Account Deletion Request"**.
+   If you cannot access your account, send an email request to our support team at **`livepigo7@gmail.com`** from your registered email address with the subject **"Account Deletion Request"**.
 
 ### What Happens Upon Deletion:
 - Your account credentials, profile details, user ID, status feeds, and personal data will be permanently deleted from our primary servers within **30 days**.
@@ -103,7 +103,7 @@ In compliance with Google Play Developer Policies, users have the right to reque
 
 **Pigo Live** is strictly intended for users who are **at least 13 years of age** (or 18+ depending on local jurisdiction for live streaming/purchases). We do not knowingly solicit or collect personal information from children under the age of 13.
 
-If we learn that we have collected personal data from a child under 13 without verified parental consent, we will take immediate steps to delete that information and terminate the account. If you believe a child under 13 has provided us with personal data, please contact us at **`pigobdlive@gmail.com`**.
+If we learn that we have collected personal data from a child under 13 without verified parental consent, we will take immediate steps to delete that information and terminate the account. If you believe a child under 13 has provided us with personal data, please contact us at **`livepigo7@gmail.com`**.
 
 ---
 
@@ -133,5 +133,5 @@ You are advised to review this Privacy Policy periodically for any changes. Cont
 If you have any questions, concerns, or requests regarding this Privacy Policy or your personal data, please contact us:
 
 - **App Name:** Pigo Live
-- **Developer / Support Email:** `pigobdlive@gmail.com`  
+- **Developer / Support Email:** `livepigo7@gmail.com`  
 - **In-App Support:** Settings > Feedback & Help  

@@ -52,8 +52,8 @@ export default function AccountDeletePage() {
               <ol className="list-decimal pl-5 space-y-2.5 text-sm text-gray-200">
                 <li>
                   Send an email to{" "}
-                  <a href="mailto:pigobdlive@gmail.com" className="text-pink-400 font-mono underline">
-                    pigobdlive@gmail.com
+                  <a href="mailto:livepigo7@gmail.com" className="text-pink-400 font-mono underline">
+                    livepigo7@gmail.com
                   </a>{" "}
                   from the email address registered with your Pigo Live account.
                 </li>
@@ -94,8 +94,8 @@ export default function AccountDeletePage() {
             <div className="bg-white/5 p-6 rounded-2xl border border-white/10 space-y-3">
               <p className="text-sm">
                 <strong className="text-white">Customer Support Email:</strong>{" "}
-                <a href="mailto:pigobdlive@gmail.com" className="text-pink-400 font-mono underline">
-                  pigobdlive@gmail.com
+                <a href="mailto:livepigo7@gmail.com" className="text-pink-400 font-mono underline">
+                  livepigo7@gmail.com
                 </a>
               </p>
             </div>

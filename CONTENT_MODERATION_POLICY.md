@@ -57,7 +57,7 @@ To foster community-led safety, room hosts and designated co-hosts possess local
 ## 5. Appeals & Misaction Review
 
 Users who believe their stream was closed or account was penalized in error can submit an appeal:
-- **Email:** `pigobdlive@gmail.com`
+- **Email:** `livepigo7@gmail.com`
 - **Subject:** "Moderation Appeal - [User ID]"
 - Appeals are reviewed by a senior safety supervisor within **48 hours**.
 
@@ -67,4 +67,4 @@ Users who believe their stream was closed or account was penalized in error can 
 
 For moderation concerns or safety inquiries:
 - **App Name:** Pigo Live (`com.pigobdlive.app`)
-- **Safety Email:** `pigobdlive@gmail.com`
+- **Safety Email:** `livepigo7@gmail.com`

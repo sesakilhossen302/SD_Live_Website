@@ -25,7 +25,7 @@ You can delete your account directly inside the **Pigo Live** app by following t
 
 If you have uninstalled the app or lost access to your device, you can submit an account deletion request via email:
 
-1. Send an email to **`pigobdlive@gmail.com`** from the email address registered with your Pigo Live account.
+1. Send an email to **`livepigo7@gmail.com`** from the email address registered with your Pigo Live account.
 2. Set the email subject as: **"Account Deletion Request - [Your Registered Email / User ID]"**.
 3. Include the following details in your email body:
    - Your **User Name** & **User ID** (if known).
@@ -54,4 +54,4 @@ For complete details on retained legal logs, please refer to our [Data Deletion 
 
 ## Need Assistance?
 
-If you experience any issues deleting your account, contact customer support at **`pigobdlive@gmail.com`**.
+If you experience any issues deleting your account, contact customer support at **`livepigo7@gmail.com`**.

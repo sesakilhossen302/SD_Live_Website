@@ -54,7 +54,7 @@ In accordance with federal and international laws (including 18 U.S.C. § 2258A)
 If you encounter any content, account, live stream, or message on Pigo Live that jeopardizes child safety or involves CSAM/CSAE:
 
 1. **In-App Report:** Tap the **Report Flag Icon** on the stream, user profile, or chat message and select **"Child Safety / Abuse"**.
-2. **Direct Safety Contact:** Send an urgent email directly to our Child Safety Team at **`pigobdlive@gmail.com`** with the subject **"URGENT: Child Safety Report"**.
+2. **Direct Safety Contact:** Send an urgent email directly to our Child Safety Team at **`livepigo7@gmail.com`** with the subject **"URGENT: Child Safety Report"**.
 3. **External Authorities:** You may also report CSAM directly to [NCMEC CyberTipline](https://report.cybertip.org/).
 
 ---
@@ -71,5 +71,5 @@ For official inquiries regarding our Child Safety Standards:
 
 - **App Name:** Pigo Live
 - **Package Name:** `com.pigobdlive.app`
-- **Child Safety Contact:** `pigobdlive@gmail.com`  
-- **General Support:** `pigobdlive@gmail.com`  
+- **Child Safety Contact:** `livepigo7@gmail.com`  
+- **General Support:** `livepigo7@gmail.com`  

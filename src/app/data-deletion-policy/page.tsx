@@ -82,7 +82,7 @@ export default function DataDeletionPolicyPage() {
             </p>
             <ul className="list-disc pl-5 space-y-2 text-gray-300">
               <li><strong className="text-white">In-App:</strong> Profile &gt; Settings &gt; Account &amp; Security &gt; Delete Account.</li>
-              <li><strong className="text-white">Email Request:</strong> Send an email to <a href="mailto:pigobdlive@gmail.com" className="text-pink-400 font-mono underline">pigobdlive@gmail.com</a> with subject <code className="bg-white/10 px-1.5 py-0.5 rounded text-pink-300">&quot;Data Deletion Request&quot;</code>.</li>
+              <li><strong className="text-white">Email Request:</strong> Send an email to <a href="mailto:livepigo7@gmail.com" className="text-pink-400 font-mono underline">livepigo7@gmail.com</a> with subject <code className="bg-white/10 px-1.5 py-0.5 rounded text-pink-300">&quot;Data Deletion Request&quot;</code>.</li>
             </ul>
           </section>
 
@@ -95,8 +95,8 @@ export default function DataDeletionPolicyPage() {
               <p className="text-sm"><strong className="text-white">Package Name:</strong> <code className="bg-white/10 px-1.5 py-0.5 rounded text-pink-400">com.pigobdlive.app</code></p>
               <p className="text-sm">
                 <strong className="text-white">Privacy Email:</strong>{" "}
-                <a href="mailto:pigobdlive@gmail.com" className="text-pink-400 font-mono underline">
-                  pigobdlive@gmail.com
+                <a href="mailto:livepigo7@gmail.com" className="text-pink-400 font-mono underline">
+                  livepigo7@gmail.com
                 </a>
               </p>
             </div>

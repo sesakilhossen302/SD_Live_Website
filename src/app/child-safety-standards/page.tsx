@@ -94,8 +94,8 @@ export default function ChildSafetyStandardsPage() {
                 </li>
                 <li>
                   <strong className="text-white">Direct Safety Contact:</strong> Send an urgent email directly to our Child Safety Team at{" "}
-                  <a href="mailto:pigobdlive@gmail.com" className="text-pink-400 font-mono underline">
-                    pigobdlive@gmail.com
+                  <a href="mailto:livepigo7@gmail.com" className="text-pink-400 font-mono underline">
+                    livepigo7@gmail.com
                   </a>{" "}
                   with the subject <strong className="text-white font-mono">&quot;URGENT: Child Safety Report&quot;</strong>.
                 </li>
@@ -126,14 +126,14 @@ export default function ChildSafetyStandardsPage() {
               <p className="text-sm"><strong className="text-white">Package Name:</strong> <code className="bg-white/10 px-1.5 py-0.5 rounded text-pink-400">com.pigobdlive.app</code></p>
               <p className="text-sm">
                 <strong className="text-white">Child Safety Contact:</strong>{" "}
-                <a href="mailto:pigobdlive@gmail.com" className="text-pink-400 font-mono underline">
-                  pigobdlive@gmail.com
+                <a href="mailto:livepigo7@gmail.com" className="text-pink-400 font-mono underline">
+                  livepigo7@gmail.com
                 </a>
               </p>
               <p className="text-sm">
                 <strong className="text-white">General Support:</strong>{" "}
-                <a href="mailto:pigobdlive@gmail.com" className="text-pink-400 font-mono underline">
-                  pigobdlive@gmail.com
+                <a href="mailto:livepigo7@gmail.com" className="text-pink-400 font-mono underline">
+                  livepigo7@gmail.com
                 </a>
               </p>
             </div>

@@ -48,7 +48,7 @@ export default function CopyrightPolicyPage() {
             </ol>
 
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2 mt-3">
-              <p className="text-sm"><strong className="text-white">Designated Copyright Agent Email:</strong> <a href="mailto:pigobdlive@gmail.com" className="text-pink-400 font-mono underline">pigobdlive@gmail.com</a></p>
+              <p className="text-sm"><strong className="text-white">Designated Copyright Agent Email:</strong> <a href="mailto:livepigo7@gmail.com" className="text-pink-400 font-mono underline">livepigo7@gmail.com</a></p>
               <p className="text-sm"><strong className="text-white">Subject Line:</strong> <code className="bg-white/10 px-1.5 py-0.5 rounded text-pink-300">&quot;DMCA Takedown Notice&quot;</code></p>
             </div>
           </section>
@@ -67,7 +67,7 @@ export default function CopyrightPolicyPage() {
               <li>Your physical or electronic signature.</li>
             </ol>
             <p className="text-sm">
-              Send counter-notices to <a href="mailto:pigobdlive@gmail.com" className="text-pink-400 font-mono underline">pigobdlive@gmail.com</a>.
+              Send counter-notices to <a href="mailto:livepigo7@gmail.com" className="text-pink-400 font-mono underline">livepigo7@gmail.com</a>.
             </p>
           </section>
 
@@ -92,8 +92,8 @@ export default function CopyrightPolicyPage() {
               <p className="text-sm"><strong className="text-white">Package Name:</strong> <code className="bg-white/10 px-1.5 py-0.5 rounded text-pink-400">com.pigobdlive.app</code></p>
               <p className="text-sm">
                 <strong className="text-white">Copyright Agent Email:</strong>{" "}
-                <a href="mailto:pigobdlive@gmail.com" className="text-pink-400 font-mono underline">
-                  pigobdlive@gmail.com
+                <a href="mailto:livepigo7@gmail.com" className="text-pink-400 font-mono underline">
+                  livepigo7@gmail.com
                 </a>
               </p>
             </div>

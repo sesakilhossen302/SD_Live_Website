@@ -177,8 +177,8 @@ export default function TermsAndConditionsPage() {
               <p className="text-sm"><strong className="text-white">Package Name:</strong> <code className="bg-white/10 px-1.5 py-0.5 rounded text-pink-400">com.pigobdlive.app</code></p>
               <p className="text-sm">
                 <strong className="text-white">Support Email:</strong>{" "}
-                <a href="mailto:pigobdlive@gmail.com" className="text-pink-400 font-mono underline">
-                  pigobdlive@gmail.com
+                <a href="mailto:livepigo7@gmail.com" className="text-pink-400 font-mono underline">
+                  livepigo7@gmail.com
                 </a>
               </p>
               <p className="text-sm"><strong className="text-white">In-App Help:</strong> Settings &gt; Feedback &amp; Help</p>

@@ -47,7 +47,7 @@ Certain limited data may be retained after account deletion where strictly requi
 
 Users can request data deletion through two methods detailed in our [Account Deletion Guide](ACCOUNT_DELETE.md):
 - **In-App:** Profile > Settings > Account & Security > Delete Account.
-- **Email Request:** Send an email to **`pigobdlive@gmail.com`** with subject *"Data Deletion Request"*.
+- **Email Request:** Send an email to **`livepigo7@gmail.com`** with subject *"Data Deletion Request"*.
 
 ---
 
@@ -55,5 +55,5 @@ Users can request data deletion through two methods detailed in our [Account Del
 
 For questions regarding data retention or data privacy practices:
 - **App Name:** Pigo Live (`com.pigobdlive.app`)
-- **Privacy Email:** `pigobdlive@gmail.com`
+- **Privacy Email:** `livepigo7@gmail.com`
 - **Privacy Policy:** [PRIVACY_POLICY.md](PRIVACY_POLICY.md)

@@ -22,7 +22,7 @@ If you are a copyright owner, or authorized to act on behalf of one, and believe
 6. **Signature:** A physical or electronic signature of the copyright owner or authorized representative.
 
 Submit your DMCA Notice to our designated Copyright Agent:
-- **Designated Copyright Agent Email:** `pigobdlive@gmail.com`
+- **Designated Copyright Agent Email:** `livepigo7@gmail.com`
 - **Subject:** "DMCA Takedown Notice"
 
 ---
@@ -37,7 +37,7 @@ If your live stream, status post, or media file was removed due to a copyright t
 4. Your consent to the jurisdiction of applicable courts for legal proceedings.
 5. Your physical or electronic signature.
 
-Send counter-notices to **`pigobdlive@gmail.com`**.
+Send counter-notices to **`livepigo7@gmail.com`**.
 
 ---
 
@@ -54,4 +54,4 @@ In accordance with DMCA guidelines and Google Play Policies, **Pigo Live** enfor
 ## 4. Contact Copyright Team
 
 - **App Name:** Pigo Live (`com.pigobdlive.app`)
-- **Copyright Agent Email:** `pigobdlive@gmail.com`
+- **Copyright Agent Email:** `livepigo7@gmail.com`

@@ -115,5 +115,5 @@ We reserve the right to modify or replace these Terms at any time. Material chan
 For any questions, legal notices, or inquiries regarding these Terms of Service, please contact us at:
 
 - **App Name:** Pigo Live
-- **Support Email:** `pigobdlive@gmail.com`  
+- **Support Email:** `livepigo7@gmail.com`  
 - **In-App Help:** Settings > Feedback & Help  

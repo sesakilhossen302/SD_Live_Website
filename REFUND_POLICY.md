@@ -41,7 +41,7 @@ If more than 48 hours have passed, refunds are handled at the sole discretion of
 If you paid for coins or virtual items but did not receive them due to a technical server error:
 
 1. **Do not repeat the purchase.**
-2. Send an email to **`pigobdlive@gmail.com`** within **7 days** of the purchase.
+2. Send an email to **`livepigo7@gmail.com`** within **7 days** of the purchase.
 3. Include the following details:
    - Your **Pigo Live User ID**.
    - Your **Google Play Order Receipt GPA Number** (e.g., `GPA.1234-5678-9012-34567`).
@@ -64,4 +64,4 @@ Initiating unauthorized credit card chargebacks or fraudulent refund claims whil
 
 For purchase inquiries or billing assistance:
 - **App Name:** Pigo Live (`com.pigobdlive.app`)
-- **Billing Support Email:** `pigobdlive@gmail.com`
+- **Billing Support Email:** `livepigo7@gmail.com`

@@ -199,8 +199,8 @@ export default function PrivacyPolicyPage() {
                 <li>
                   <strong className="text-white">Email Request Path:</strong><br />
                   If you cannot access your account, send an email request to our support team at{" "}
-                  <a href="mailto:pigobdlive@gmail.com" className="text-pink-400 font-mono underline">
-                    pigobdlive@gmail.com
+                  <a href="mailto:livepigo7@gmail.com" className="text-pink-400 font-mono underline">
+                    livepigo7@gmail.com
                   </a>{" "}
                   from your registered email address with the subject <strong className="text-white font-mono">&quot;Account Deletion Request&quot;</strong>.
                 </li>
@@ -224,8 +224,8 @@ export default function PrivacyPolicyPage() {
             </p>
             <p>
               If we learn that we have collected personal data from a child under 13 without verified parental consent, we will take immediate steps to delete that information and terminate the account. If you believe a child under 13 has provided us with personal data, please contact us at{" "}
-              <a href="mailto:pigobdlive@gmail.com" className="text-pink-400 font-mono underline">
-                pigobdlive@gmail.com
+              <a href="mailto:livepigo7@gmail.com" className="text-pink-400 font-mono underline">
+                livepigo7@gmail.com
               </a>.
             </p>
           </section>
@@ -272,8 +272,8 @@ export default function PrivacyPolicyPage() {
               <p className="text-sm"><strong className="text-white">Package Name:</strong> <code className="bg-white/10 px-1.5 py-0.5 rounded text-pink-400">com.pigobdlive.app</code></p>
               <p className="text-sm">
                 <strong className="text-white">Developer / Support Email:</strong>{" "}
-                <a href="mailto:pigobdlive@gmail.com" className="text-pink-400 font-mono underline">
-                  pigobdlive@gmail.com
+                <a href="mailto:livepigo7@gmail.com" className="text-pink-400 font-mono underline">
+                  livepigo7@gmail.com
                 </a>
               </p>
               <p className="text-sm"><strong className="text-white">In-App Support:</strong> Settings &gt; Feedback &amp; Help</p>

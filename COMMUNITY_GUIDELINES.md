@@ -95,7 +95,7 @@ Our automated moderation algorithms and 24/7 human moderation team review report
 
 If you believe your account was suspended or your live stream was terminated in error, you may submit an appeal:
 
-- **Email Support:** Send an email to **`pigobdlive@gmail.com`** with the subject **"Account Appeal - [User ID]"**.
+- **Email Support:** Send an email to **`livepigo7@gmail.com`** with the subject **"Account Appeal - [User ID]"**.
 - **Include:** Your User ID, registered email/phone, a detailed description of the incident, and any supporting evidence or context.
 
 Our Safety Team reviews all appeals within **48–72 hours**.
@@ -108,5 +108,5 @@ If you have questions about these Community Guidelines or wish to report a safet
 
 - **App Name:** Pigo Live
 - **Package Name:** `com.pigobdlive.app`
-- **Safety Email:** `pigobdlive@gmail.com`  
+- **Safety Email:** `livepigo7@gmail.com`  
 - **In-App Reporting:** Tap the **Report** button inside any stream or user profile.

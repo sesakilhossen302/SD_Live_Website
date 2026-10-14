@@ -127,8 +127,8 @@ export default function ContentModerationPolicyPage() {
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-3">
               <p className="text-sm">
                 <strong className="text-white">Email:</strong>{" "}
-                <a href="mailto:pigobdlive@gmail.com" className="text-pink-400 font-mono underline">
-                  pigobdlive@gmail.com
+                <a href="mailto:livepigo7@gmail.com" className="text-pink-400 font-mono underline">
+                  livepigo7@gmail.com
                 </a>
               </p>
               <p className="text-sm"><strong className="text-white">Subject:</strong> <code className="bg-white/10 px-1.5 py-0.5 rounded text-pink-300">&quot;Moderation Appeal - [User ID]&quot;</code></p>
@@ -145,8 +145,8 @@ export default function ContentModerationPolicyPage() {
               <p className="text-sm"><strong className="text-white">Package Name:</strong> <code className="bg-white/10 px-1.5 py-0.5 rounded text-pink-400">com.pigobdlive.app</code></p>
               <p className="text-sm">
                 <strong className="text-white">Safety Email:</strong>{" "}
-                <a href="mailto:pigobdlive@gmail.com" className="text-pink-400 font-mono underline">
-                  pigobdlive@gmail.com
+                <a href="mailto:livepigo7@gmail.com" className="text-pink-400 font-mono underline">
+                  livepigo7@gmail.com
                 </a>
               </p>
             </div>

@@ -83,8 +83,8 @@ export default function RefundPolicyPage() {
                 <li><strong className="text-white">Do not repeat the purchase.</strong></li>
                 <li>
                   Send an email to{" "}
-                  <a href="mailto:pigobdlive@gmail.com" className="text-pink-400 font-mono underline">
-                    pigobdlive@gmail.com
+                  <a href="mailto:livepigo7@gmail.com" className="text-pink-400 font-mono underline">
+                    livepigo7@gmail.com
                   </a>{" "}
                   within <strong className="text-white">7 days</strong> of the purchase.
                 </li>
@@ -123,8 +123,8 @@ export default function RefundPolicyPage() {
               <p className="text-sm"><strong className="text-white">Package Name:</strong> <code className="bg-white/10 px-1.5 py-0.5 rounded text-pink-400">com.pigobdlive.app</code></p>
               <p className="text-sm">
                 <strong className="text-white">Billing Support Email:</strong>{" "}
-                <a href="mailto:pigobdlive@gmail.com" className="text-pink-400 font-mono underline">
-                  pigobdlive@gmail.com
+                <a href="mailto:livepigo7@gmail.com" className="text-pink-400 font-mono underline">
+                  livepigo7@gmail.com
                 </a>
               </p>
             </div>
