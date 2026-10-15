@@ -27,7 +27,7 @@ export default function DownloadSection() {
               </div>
 
               <h2 className="text-3xl sm:text-5xl lg:text-6xl font-black text-white tracking-tight leading-tight">
-                Download <span className="text-gradient">PigoLive Today</span>
+                Download <span className="text-gradient">SB Live Today</span>
               </h2>
 
               <p className="text-gray-300 text-base sm:text-lg max-w-2xl mx-auto lg:mx-0 font-normal">
@@ -57,7 +57,7 @@ export default function DownloadSection() {
                   href="#download-google-play"
                   onClick={(e) => {
                     e.preventDefault();
-                    alert("PigoLive Android App download starting! (Placeholder link)");
+                    alert("SB Live Android App download starting! (Placeholder link)");
                   }}
                   className="w-full sm:w-auto px-7 py-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/20 text-white flex items-center justify-center gap-3 transition-all duration-300 shadow-lg group"
                 >
@@ -75,7 +75,7 @@ export default function DownloadSection() {
                   href="#download-apk"
                   onClick={(e) => {
                     e.preventDefault();
-                    alert("PigoLive Direct APK v2.4.0 download initiated! (Placeholder link)");
+                    alert("SB Live Direct APK v2.4.0 download initiated! (Placeholder link)");
                   }}
                   className="w-full sm:w-auto px-7 py-4 rounded-2xl btn-gradient text-white flex items-center justify-center gap-3 transition-all duration-300 shadow-xl group"
                 >

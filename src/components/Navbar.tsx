@@ -50,8 +50,8 @@ export default function Navbar() {
             <div className="relative w-11 h-11 rounded-xl bg-gradient-to-tr from-[#FF5E3A] via-[#FF2A6D] to-[#9B51E0] p-[2px] shadow-lg shadow-purple-500/25 group-hover:shadow-pink-500/50 transition-all duration-300">
               <div className="w-full h-full bg-[#0a0c1a] rounded-[9px] flex items-center justify-center overflow-hidden p-1">
                 <Image
-                  src="/pigo-live.png"
-                  alt="Pigo Live Logo"
+                  src="/SB Live.png"
+                  alt="SB Live Logo"
                   width={36}
                   height={36}
                   priority
@@ -62,7 +62,7 @@ export default function Navbar() {
             </div>
             <div className="flex flex-col">
               <span className="font-extrabold text-xl tracking-tight text-white flex items-center gap-1.5">
-                Pigo<span className="text-[#D4AF37]">Live</span>
+                SB<span className="text-[#D4AF37]"> Live</span>
                 <span className="inline-block w-2 h-2 rounded-full bg-[#D4AF37] animate-pulse" />
               </span>
               <span className="text-[10px] text-gray-400 tracking-widest uppercase font-medium">
@@ -159,7 +159,7 @@ export default function Navbar() {
                   className="w-full py-3 rounded-xl font-bold text-center text-white btn-gradient flex items-center justify-center gap-2"
                 >
                   <Download className="w-5 h-5" />
-                  <span>Download PigoLive</span>
+                  <span>Download SB Live</span>
                 </Link>
               </div>
             </div>

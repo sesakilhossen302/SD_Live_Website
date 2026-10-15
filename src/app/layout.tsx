@@ -16,31 +16,32 @@ const poppins = Poppins({
 });
 
 export const metadata: Metadata = {
-  title: "PigoLive - Premium Live Streaming & Creator Platform",
+  title: "SB Live - Premium Live Streaming & Creator Platform",
   description:
     "Experience the next generation live streaming platform with HD video, interactive live rooms, virtual gifts, and instant creator monetization.",
   keywords: [
-    "PigoLive",
+    "SB Live",
+    "SB Live App",
     "Live Streaming App",
     "Virtual Gifts",
     "Creator Earnings",
     "Private Live Rooms",
     "HD Broadcast",
   ],
-  authors: [{ name: "PigoLive Team" }],
+  authors: [{ name: "SB Live Team" }],
   metadataBase: new URL("https://pigobdlive.app"),
   openGraph: {
-    title: "PigoLive - Go Live. Connect. Earn.",
+    title: "SB Live - Go Live. Connect. Earn.",
     description:
-      "Join 100K+ broadcasers on PigoLive. Stream in 1080p, chat in real-time, send 3D gifts, and monetize your content.",
+      "Join 100K+ broadcasers on SB Live. Stream in 1080p, chat in real-time, send 3D gifts, and monetize your content.",
     url: "https://pigobdlive.app",
-    siteName: "PigoLive",
+    siteName: "SB Live",
     images: [
       {
         url: "/screenshots/3.png",
         width: 1200,
         height: 630,
-        alt: "PigoLive Platform Preview",
+        alt: "SB Live Platform Preview",
       },
     ],
     locale: "en_US",
@@ -48,20 +49,20 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "PigoLive - Go Live. Connect. Earn.",
+    title: "SB Live - Go Live. Connect. Earn.",
     description:
       "Experience the next-gen live streaming mobile app with virtual gifts and instant payouts.",
     images: ["/screenshots/3.png"],
-    creator: "@pigolive",
+    creator: "@sblive",
   },
   robots: {
     index: true,
     follow: true,
   },
   icons: {
-    icon: "/pigo-live.png?v=2",
-    shortcut: "/pigo-live.png?v=2",
-    apple: "/pigo-live.png?v=2",
+    icon: "/SB Live.png?v=3",
+    shortcut: "/SB Live.png?v=3",
+    apple: "/SB Live.png?v=3",
   },
 };
 
