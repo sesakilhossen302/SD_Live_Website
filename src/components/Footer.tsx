@@ -19,11 +19,11 @@ export default function Footer() {
             <Link href="/" className="flex items-center gap-3 group">
               <div className="relative w-11 h-11 rounded-xl bg-gradient-to-tr from-[#FF5E3A] via-[#FF2A6D] to-[#9B51E0] p-[2px] shadow-lg shadow-purple-500/25">
                 <div className="w-full h-full bg-[#0a0c1a] rounded-[9px] flex items-center justify-center overflow-hidden p-1">
-                  <Image src="/SB Live.png" alt="SB Live Logo" width={36} height={36} unoptimized className="w-full h-full object-contain" />
+                  <Image src="/SD Live.png" alt="SD Live Logo" width={36} height={36} unoptimized className="w-full h-full object-contain" />
                 </div>
               </div>
               <span className="font-black text-2xl tracking-tight text-white">
-                SB<span className="text-[#D4AF37]"> Live</span>
+                SD<span className="text-[#D4AF37]"> Live</span>
               </span>
             </Link>
 
@@ -127,7 +127,7 @@ export default function Footer() {
 
         {/* Bottom Bar Copyright */}
         <div className="pt-8 flex flex-col sm:flex-row items-center justify-between gap-4 text-xs text-gray-500">
-          <p>© {new Date().getFullYear()} SB Live Inc. All rights reserved.</p>
+          <p>© {new Date().getFullYear()} SD Live Inc. All rights reserved.</p>
           <p className="flex items-center gap-1">
             Made with <Heart className="w-3.5 h-3.5 text-[#D4AF37] fill-[#D4AF37]" /> for broadcasers worldwide.
           </p>

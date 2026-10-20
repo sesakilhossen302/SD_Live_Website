@@ -1,6 +1,6 @@
-# SB Live Website
+# SD Live Website
 
-Official website for **SB Live** — Next-Gen Live Streaming & Creator Economy mobile application (`com.pigobdlive.app`).
+Official website for **SD Live** — Next-Gen Live Streaming & Creator Economy mobile application (`com.dslivebd.app`).
 
 ## Features
 - Built with **Next.js 14 (App Router)**, **React 18**, and **Tailwind CSS**.

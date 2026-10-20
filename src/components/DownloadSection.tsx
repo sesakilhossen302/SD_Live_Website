@@ -27,7 +27,7 @@ export default function DownloadSection() {
               </div>
 
               <h2 className="text-3xl sm:text-5xl lg:text-6xl font-black text-white tracking-tight leading-tight">
-                Download <span className="text-gradient">SB Live Today</span>
+                Download <span className="text-gradient">SD Live Today</span>
               </h2>
 
               <p className="text-gray-300 text-base sm:text-lg max-w-2xl mx-auto lg:mx-0 font-normal">
@@ -54,11 +54,9 @@ export default function DownloadSection() {
               <div className="flex flex-col sm:flex-row items-center justify-center lg:justify-start gap-4 pt-4">
                 {/* Google Play Button */}
                 <a
-                  href="#download-google-play"
-                  onClick={(e) => {
-                    e.preventDefault();
-                    alert("SB Live Android App download starting! (Placeholder link)");
-                  }}
+                  href="https://play.google.com/store/apps/details?id=com.dslivebd.app"
+                  target="_blank"
+                  rel="noopener noreferrer"
                   className="w-full sm:w-auto px-7 py-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/20 text-white flex items-center justify-center gap-3 transition-all duration-300 shadow-lg group"
                 >
                   <div className="w-8 h-8 rounded-lg bg-gradient-to-tr from-[#D4AF37] to-[#B5952F] flex items-center justify-center font-bold text-white text-sm">
@@ -75,7 +73,7 @@ export default function DownloadSection() {
                   href="#download-apk"
                   onClick={(e) => {
                     e.preventDefault();
-                    alert("SB Live Direct APK v2.4.0 download initiated! (Placeholder link)");
+                    alert("SD Live Direct APK (com.dslivebd.app) download initiated!");
                   }}
                   className="w-full sm:w-auto px-7 py-4 rounded-2xl btn-gradient text-white flex items-center justify-center gap-3 transition-all duration-300 shadow-xl group"
                 >

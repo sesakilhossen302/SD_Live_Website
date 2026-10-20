@@ -16,32 +16,32 @@ const poppins = Poppins({
 });
 
 export const metadata: Metadata = {
-  title: "SB Live - Premium Live Streaming & Creator Platform",
+  title: "SD Live - Premium Live Streaming & Creator Platform",
   description:
     "Experience the next generation live streaming platform with HD video, interactive live rooms, virtual gifts, and instant creator monetization.",
   keywords: [
-    "SB Live",
-    "SB Live App",
+    "SD Live",
+    "SD Live App",
     "Live Streaming App",
     "Virtual Gifts",
     "Creator Earnings",
     "Private Live Rooms",
     "HD Broadcast",
   ],
-  authors: [{ name: "SB Live Team" }],
-  metadataBase: new URL("https://pigobdlive.app"),
+  authors: [{ name: "SD Live Team" }],
+  metadataBase: new URL("https://dslivebd.app"),
   openGraph: {
-    title: "SB Live - Go Live. Connect. Earn.",
+    title: "SD Live - Go Live. Connect. Earn.",
     description:
-      "Join 100K+ broadcasers on SB Live. Stream in 1080p, chat in real-time, send 3D gifts, and monetize your content.",
-    url: "https://pigobdlive.app",
-    siteName: "SB Live",
+      "Join 100K+ broadcasers on SD Live. Stream in 1080p, chat in real-time, send 3D gifts, and monetize your content.",
+    url: "https://dslivebd.app",
+    siteName: "SD Live",
     images: [
       {
-        url: "/screenshots/3.png",
+        url: "/SD Live.png",
         width: 1200,
         height: 630,
-        alt: "SB Live Platform Preview",
+        alt: "SD Live Platform Preview",
       },
     ],
     locale: "en_US",
@@ -49,20 +49,20 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "SB Live - Go Live. Connect. Earn.",
+    title: "SD Live - Go Live. Connect. Earn.",
     description:
       "Experience the next-gen live streaming mobile app with virtual gifts and instant payouts.",
-    images: ["/screenshots/3.png"],
-    creator: "@sblive",
+    images: ["/SD Live.png"],
+    creator: "@sdlive",
   },
   robots: {
     index: true,
     follow: true,
   },
   icons: {
-    icon: "/SB Live.png?v=3",
-    shortcut: "/SB Live.png?v=3",
-    apple: "/SB Live.png?v=3",
+    icon: "/SD Live.png",
+    shortcut: "/SD Live.png",
+    apple: "/SD Live.png",
   },
 };
 
